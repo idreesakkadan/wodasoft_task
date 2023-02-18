@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+*.log
+*.log*
+*.xml
+.idea
+uploaded_media
+dump.rdb
+obj/
+.venv/
+*.pyproj
+*.pyproj.user
