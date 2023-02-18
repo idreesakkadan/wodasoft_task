@@ -25,3 +25,13 @@
 - RUN python manage.py migrate command!
 - Now to create a super user, run the command: python manage.py createsuperuser
 - After that, enter the user details.
+
+##### environment variables
+SECRET_KEY=django-insecure-0c&yp-m9msb$j$a#3o^kjv17n^ybn4yzn04*t=#)077p=16s!h
+DEBUG=True
+ALLOWED_HOSTS=*
+DB_NAME=wodasoft
+DB_USER=wodasoft_user
+DB_PASSWORD=wodasoft
+DB_HOST=localhost
+DB_PORT=5432

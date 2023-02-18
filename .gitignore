@@ -10,3 +10,4 @@ obj/
 .venv/
 *.pyproj
 *.pyproj.user
+.env
